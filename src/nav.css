@@ -1,0 +1,19 @@
+.nav_logo_1 {
+  width: 80px;
+  object-fit: contain;
+}
+/* .nav_logo_2 {
+  float: right;
+} */
+.nav {
+  position: fixed;
+  top: 0;
+  /* background-color: black; */
+  display: flex;
+  width: 100%;
+  /* always on top */
+  z-index: 1;
+}
+.nav_black {
+  background-color: black;
+}
