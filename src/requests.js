@@ -1,4 +1,4 @@
-const Api_key = "92d6ee0dcae10e399d7c07948473154c";
+const Api_key = "#api key";
 
 // objects of api request
 // note we are using ` insted of '
